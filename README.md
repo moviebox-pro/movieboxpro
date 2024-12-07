@@ -10,6 +10,7 @@ Features of MovieBox Pro:
 7.	Regular Updates: Maintains content freshness through frequent library updates, consistently adding new releases and recent TV episodes to keep the collection current and engaging.
 8.	Custom Playlists and Watchlists: Enables personalized content organization through customizable playlists and watchlists. Users can efficiently manage their viewing preferences and create specialized collections based on their interests.
 9.	Chromecast and AirPlay Support: Features comprehensive casting capabilities, supporting both Chromecast and AirPlay technologies. This integration allows seamless content streaming to larger displays and home entertainment systems.
+10.	Source - https://moviebox-pro.app/
 # Important Considerations:
 •	Legal and Ethical Concerns: The platform's legal status varies significantly across different jurisdictions. Content licensing and copyright compliance remain important considerations, as some material may be distributed without proper authorization. Users should verify local regulations regarding content streaming and distribution.
 •	Security Risks: The requirement for side-loading introduces potential security vulnerabilities. Downloading applications from unofficial sources may expose users to various cybersecurity threats, including malicious software and data privacy risks. Users should exercise caution and verify source authenticity before installation.
